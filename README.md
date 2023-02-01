@@ -2,9 +2,13 @@
 
 ## Lesson Task 3
 
-The `index.html` file links to `products.js`. Loop through the array in `products.js` and display each object using HTML.
 
-Provide a default value for the `price` property if it is missing.
+OK      The `index.html` file links to `products.js`. 
+
+OK      Loop through the array in `products.js` 
+OK      and display each object using HTML.
+
+OK      Provide a default value for the `price` property if it is missing.
 
 If the product is sold out, display its name in red otherwise display it in green.
 
